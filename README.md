@@ -17,3 +17,5 @@ Thus this new 'index' token can be transfered to anyone since it will be an ERC2
 the underlying assets of the the 'index' token.
 Since these 'index' tokens can be created by any user, the template for the for the creation of the token can be used by other users
 to make the same token(actually purchasing them).
+Link to frontend --- https://github.com/electrone901/Crypto-Index-Funds
+Link to backend --- https://github.com/ysongit/IndexFundServer
